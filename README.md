@@ -2,6 +2,8 @@
 
 One important story, five questions, and a conversation kit worth carrying into the rest of your day.
 
+**Live prototype:** [brianeschoenberger-gif.github.io/the-daily-fifth](https://brianeschoenberger-gif.github.io/the-daily-fifth/)
+
 This is a user-experience prototype for a personal daily news-learning habit. It contains three hand-curated, source-backed sample editions with a U.S. emphasis and one major global story. Progress is saved locally in the browser; there are no accounts, APIs, or live news ingestion yet.
 
 ## Run it locally
