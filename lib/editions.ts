@@ -296,9 +296,9 @@ export const editions: Edition[] = [
         url: 'https://digitallibrary.un.org/nanna/record/4107481/files/NPT_CONF.2026_7-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0',
       },
       {
-        label: 'IAEA reports to the Council',
-        publisher: 'U.N. Security Council',
-        url: 'https://main.un.org/securitycouncil/en/content/2231/iaea-reports',
+        label: 'A past referral in practice',
+        publisher: 'United Nations Digital Library',
+        url: 'https://digitallibrary.un.org/record/574101',
       },
     ],
     questions: [
