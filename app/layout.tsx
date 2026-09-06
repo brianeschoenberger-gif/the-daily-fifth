@@ -16,18 +16,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'The Daily Fifth — One story. Five questions.',
+  title: 'The Daily Fifth — A daily curiosity game',
   description:
-    'Understand one important story in five questions—and have something worth talking about.',
+    'Five surprising, source-backed questions with the hidden origins and downstream ripples worth remembering.',
   openGraph: {
-    title: 'The Daily Fifth — One story. Five questions.',
-    description: 'Understand today. Remember what matters.',
+    title: 'The Daily Fifth — A daily curiosity game',
+    description: 'Five surprising questions. Keep the curious parts.',
     images: [socialImage],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'The Daily Fifth — One story. Five questions.',
-    description: 'Understand today. Remember what matters.',
+    title: 'The Daily Fifth — A daily curiosity game',
+    description: 'Five surprising questions. Keep the curious parts.',
     images: [socialImage],
   },
 };
